@@ -11,3 +11,4 @@ This repository is for learning Neural ODE and related practice. Come on!!!!!!!
 4 Run K epochs and then estimate the best $`\lambda`$ to make it recover the original $`\lambda`$. 
 
 5 When solve problems above, try more complicated equation systems with more parameters!
+.
