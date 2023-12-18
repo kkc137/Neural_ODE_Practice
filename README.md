@@ -14,5 +14,6 @@ This repository is for learning Neural ODE and related practice. Come on!!!!!!!
 
 ## Step 2:
 1 learn deeper in julia.
-2 use SIR model and think about the use.
-3 solve the questions this weeka and ask for advice.
+2 use SIR model and think about the use. Have a practice to use the model.
+3 solve the questions this week and ask for advice.
+
