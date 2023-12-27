@@ -14,6 +14,8 @@ This repository is for learning Neural ODE and related practice. Come on!!!!!!!
 
 ## Step 2:
 1 learn deeper in julia.(have uploaded learning diffequation.jl file)
+
 2 use SIR model and think about the use. Have a practice to use the model. (here is practice and learning about SIR model in repository)
+
 3 solve the questions this week and ask for advice.
 
