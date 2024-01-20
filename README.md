@@ -20,3 +20,8 @@ This repository is for learning Neural ODE and related practice. Come on!!!!!!!
 3 solve the questions this week and ask for advice.
 4 there are questions about estimating parameter in julia(diffeqflux) and learning diffequation.jl(uploaded).
 
+## Step 3:
+1 build a chain model: Dense layer - Neural ode - Dense layer
+2 use raw data mnist to test the model- it works
+3 next step use data into the model
+
